@@ -40,7 +40,7 @@ enum layers{
 // Right-hand home row mods
 #define HOME_J RSFT_T(KC_J)
 #define HOME_K RCTL_T(KC_K)
-#define HOME_L LALT_T(KC_L)
+#define HOME_L RALT_T(KC_L)
 #define HOME_SCLN RGUI_T(KC_SCLN)
 
 
